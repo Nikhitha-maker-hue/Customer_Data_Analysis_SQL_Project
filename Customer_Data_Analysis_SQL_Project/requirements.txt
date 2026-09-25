@@ -1,0 +1,2 @@
+# No Python dependencies are required.
+# MySQL 8.0+ is recommended.
